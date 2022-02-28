@@ -1,2 +1,2 @@
 # odin-recipes
-Just some projects from Odin
+In this project i'll use html to make a brutalist webpage about recipes following odin course.
